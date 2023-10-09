@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""defining an object"""
+"""defining an object."""
 def lookup(obj):
-    """returns a list object"""
+    """returns a list object."""
     return dir(obj)
