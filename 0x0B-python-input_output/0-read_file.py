@@ -1,5 +1,7 @@
 #!/usr/bin/python3
 """defining file reader"""
+
+
 def read_file(filename=""):
     """rep function"""
     with open(filename, encoding="utf-8") as my_file:

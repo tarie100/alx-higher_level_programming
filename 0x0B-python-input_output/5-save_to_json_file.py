@@ -1,5 +1,7 @@
 #!/usr/bin/python3
 """define func"""
+
+
 def save_to_json_file(my_obj, filename):
     """import json"""
     import json
